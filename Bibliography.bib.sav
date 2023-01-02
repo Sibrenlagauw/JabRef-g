@@ -1,0 +1,1294 @@
+% Encoding: UTF-8
+
+@TechReport{SystemIdSchoukens,
+  author      = {Schoukens, Johan},
+  institution = {Vrije Universiteit Brussel},
+  title       = {System Identification},
+  year        = {2018-2019},
+  address     = {Brussels, Belgium},
+  type        = {Lecture notes},
+  file        = {:PDFs/InBib/course_introduction_to_system_identification.pdf:PDF},
+}
+
+@Unpublished{NonlinearSysIdSchoukens,
+  author = {Schoukens, Johan and Ljung, Lennart},
+  note   = {preprint on webpage at \url{https://arxiv.org/pdf/1902.00683.pdf}},
+  title  = {Nonlinear System Identification: A User-Oriented Roadmap},
+  year   = {2019},
+  file   = {:PDFs/InBib/nonlinear_system_identification_schoukens_Ljung.pdf:PDF},
+}
+,
+
+@Article{SubspaceSysId,
+  author  = {Favoreel, Wouter and De Moor, Bart and Van Overschee, Peter},
+  journal = {Journal of Process Control},
+  title   = {Subspace state space system identification for industrial processes},
+  year    = {2000},
+  number  = {10},
+  pages   = {149--155},
+  file    = {:PDFs/InBib/Subspace_ss_sysId_Favoreel_DeMoor.pdf:PDF;:SubspaceSysId - Subspace State Space System Identification for Industrial Processes (1).pdf:PDF;:SubspaceSysId - Subspace State Space System Identification for Industrial Processes (2).pdf:PDF},
+}
+
+@InCollection{Maddala1996,
+  author    = {G. S., Maddala and M., Nimalendran},
+  booktitle = {Statistical Methods in Finance},
+  publisher = {Elsevier},
+  title     = {Errors-in-Variables Problems in Financial Models},
+  year      = {1996},
+  chapter   = {17},
+  editor    = {G.S. Maddala and C.R. Rao},
+  pages     = {507-528},
+  series    = {Handbook of Statistics},
+  volume    = {14},
+  file      = {:PDFs/InBib/Errors_in_variables_methods_in_Finance.pdf:PDF},
+}
+
+@Article{Lemmerling2001,
+  author  = {Lemmerling, P. and De Moor, B.},
+  journal = {Automatica},
+  title   = {Misfit versus latency},
+  year    = {2001},
+  pages   = {2057 -- 2067},
+  volume  = {37},
+  file    = {:PDFs/InBib/2001-Misfit_versus_latency.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+  printed = {Yes},
+}
+
+@Article{Moor2020,
+  author  = {De Moor, Bart},
+  journal = {Communications in Information and Systems},
+  title   = {Least squares optimal realisation of autonomous {LTI} systems is an eigenvalue problem},
+  year    = {2020},
+  number  = {2},
+  pages   = {163 -- 207},
+  volume  = {20},
+  file    = {:PDFs/InBib/Moor2020.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+  printed = {Yes},
+}
+
+@Article{Willems1986,
+  author  = {Willems, Jan C.},
+  journal = {Automatica},
+  title   = {From Time Series to Linear System - Part I. Finite Dimensional Linear Time Invariant Systems},
+  year    = {1986},
+  file    = {:PDFs/InBib/Willems1986.pdf:PDF},
+  groups  = {Start PhD},
+  printed = {Yes},
+}
+
+@Article{Willems1986II,
+  author  = {Willems, Jan C.},
+  journal = {Automatica},
+  title   = {From Time Series to Linear System - Part II. Exact modelling},
+  year    = {1986},
+  file    = {:PDFs/InBib/Willems1986II.pdf:PDF},
+  groups  = {Start PhD},
+  printed = {Yes},
+}
+
+@Article{Willems1987,
+  author  = {Willems, Jan C.},
+  journal = {Automatica},
+  title   = {From Time Series to Linear System - Part III. Approximate Modelling},
+  year    = {1987},
+  file    = {:PDFs/InBib/Willems1987III.pdf:PDF},
+  groups  = {Start PhD},
+  printed = {Yes},
+}
+
+@Article{DeMoor1993a,
+  author  = {De Moor, B.},
+  journal = {Linear Algebra an Its Applications},
+  title   = {Structured Total Least Squares and $L_2$ Approximation Problems},
+  year    = {1993},
+  month   = jul,
+  pages   = {163--205},
+  volume  = {188-189},
+  file    = {:/Users/sibrenlagauw/Documents/KULeuven/PhD/Literature/PDFs/InBib/1993-Structured_total_least_squares_and_Lsub2sub_approximation_problems.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+  printed = {Yes},
+}
+
+@InProceedings{DeMoor1994b,
+  author    = {De Moor, B.},
+  booktitle = {Proc. of the 10th IFAC Symposium on System Identification},
+  title     = {Dynamic Total Linear Least Squares},
+  year      = {1994},
+  address   = {Copenhagen, Denmark},
+  month     = jul,
+  number    = {10},
+  pages     = {159 -- 164},
+  volume    = {3},
+  file      = {:PDFs/InBib/1994-Dynamic_total_linear_least_squares.pdf:PDF},
+  groups    = {Start PhD, STADIUS publications},
+  printed   = {Yes},
+}
+
+@Article{DeMoor1994a,
+  author  = {De Moor, B.},
+  journal = {IEEE Transactions on Signal Processing},
+  title   = {Total Least Squares for Affinely Structured Matrices and the Noisy Realization Problem},
+  year    = {1994},
+  number  = {11},
+  pages   = {3104 -- 3113},
+  volume  = {42},
+  file    = {:PDFs/InBib/1994-Total_least_squares_for_affinely_structured_matrices_and_the_noisy_realization_problem.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+}
+
+@Conference{Markovsky2004,
+  author    = {Markovsky, Ivan and Willems, Jan C. and Van Hufffel, Sabine and De Moor, Bart and Pintelon, Rik},
+  booktitle = {IEEE Conference on Decision and Control},
+  title     = {Application of Structured Total Least Squares for System Identification},
+  year      = {2004},
+  file      = {:PDFs/InBib/2004-Application_of_structured_total_least_squares_for_system_identification.pdf:PDF},
+  groups    = {Start PhD},
+}
+
+@Article{PeterVanOverschee1993,
+  author  = {Van Overschee, Peter and {De Moor}, Bart},
+  journal = {Automatica},
+  title   = {Subspace Algorithms for the Stochastic Identification Problem},
+  year    = {1993},
+  file    = {:PDFs/InBib/PeterVanOverschee1993.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+  printed = {Yes},
+}
+
+@InProceedings{Chen1987,
+  author    = {Chen, Jiande and Vandewalle, Joos and De Moor, Bart},
+  booktitle = {Proc. of the Int. Conf. on Linear Algebra and Applications, Valencia, Spain.},
+  title     = {ARMA Spectral Estimation By An Adaptive IIR filter},
+  year      = {1987},
+  file      = {:PDFs/InBib/Chen1987.pdf:PDF},
+  groups    = {Start PhD},
+  printed   = {Yes},
+}
+
+@PhdThesis{phd_BDeMoor,
+  author = {De Moor, Bart},
+  school = {Katholieke Universiteit Leuven},
+  title  = {Mathematical Concepts and Techniques for Modelling of Static and Dynamic Systems},
+  year   = {1988},
+  file   = {:PDFs/InBib/phd_BDeMoor/phd_BDeMoor_part1.pdf:PDF},
+  groups = {Start PhD, STADIUS publications},
+}
+
+@Article{Moor1992,
+  author  = {De Moor, Bart and Van Dooren, Paul},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
+  title   = {Generalizations of the Singular Value and QR Decompositions},
+  year    = {1992},
+  file    = {:PDFs/InBib/Moor1992.pdf:PDF},
+  groups  = {Start PhD, STADIUS publications},
+  printed = {Yes},
+}
+
+@Article{PeterVanOverschee1995,
+  author  = {Van Overschee, Peter and De Moor, Bart},
+  journal = {Automatica},
+  title   = {A Unifying Theorem for Three Subspace System Identification Algorithms},
+  year    = {1995},
+  file    = {:PDFs/InBib/PeterVanOverschee1995.pdf:PDF},
+  groups  = {Start PhD},
+}
+
+@Conference{TorstenSoederstroem,
+  author    = {S{\"o}derstr{\"o}m, T. and Soverini, U.},
+  booktitle = {European Control Conference (ECC)},
+  title     = {When are errors-in-variables aspects particularly important to consider in system identification?},
+  year      = {2022},
+  file      = {:PDFs/InBib/TorstenSoederstroem.pdf:PDF},
+  groups    = {Start PhD},
+  printed   = {Yes},
+}
+
+@Article{Roorda1995b,
+  author  = {Roorda, B. and Heij, C.},
+  journal = {IEEE Transactions on Automatic Control},
+  title   = {Global Total Least Squares Modeling of Multivariable Time Series},
+  year    = {1995},
+  month   = jan,
+  number  = {1},
+  pages   = {50--63},
+  volume  = {40},
+  file    = {:PDFs/InBib/BerendRoorda1995.pdf:PDF},
+  groups  = {Start PhD, Links with operator theory},
+  printed = {Yes},
+}
+
+@Article{Roorda1995,
+  author  = {Roorda, B.},
+  journal = {Automatica},
+  title   = {Algorithms for Global Total Least Square Modelling of Finite Multivariable Time Series},
+  year    = {1995},
+  number  = {3},
+  pages   = {391--404},
+  volume  = {31},
+  file    = {:PDFs/InBib/Roorda1995.pdf:PDF},
+  groups  = {Start PhD, Links with operator theory},
+  printed = {Yes},
+}
+
+@PhdThesis{Roorda1995a,
+  author  = {Roorda, Berend},
+  school  = {Erasmus Universiteit Rotterdam},
+  title   = {Global Total Least Squares - A method for the construction of open approximate models from vector time series},
+  year    = {1995},
+  address = {Rotterdam, The Netherlands},
+  file    = {:PDFs/InBib/Roorda1995a.pdf:PDF},
+  groups  = {Start PhD, Links with operator theory},
+  printed = {Yes},
+}
+
+@Article{Beghelli1990,
+  author  = {Beghelli, S. and Guidorzi, R. P. and Soverini, U.},
+  journal = {Automatica},
+  title   = {The Frisch Scheme in Dynamic System Identification},
+  year    = {1990},
+  number  = {1},
+  pages   = {171--176},
+  volume  = {26},
+  groups  = {Start PhD},
+  printed = {Yes},
+}
+
+@Book{foias1990,
+  author    = {Foias, Ciprian and Frazho, Arthur E.},
+  editor    = {I. Gohberg},
+  publisher = {Birkh{\"a}user Verslag Berlin},
+  title     = {The Commutant Lifting Approach to Interpolation Problems},
+  year      = {1990},
+  file      = {:PDFs/InBib/foias1990.pdf:PDF},
+  groups    = {Start PhD, Links with operator theory},
+}
+
+@Article{Halmos1960,
+  author  = {Halmos, Paul R.},
+  journal = {Journal f{\"u}r die reine und angewandte Mathematik},
+  title   = {Shifts on Hilbert spaces},
+  year    = {1960},
+  file    = {:PDFs/InBib/Halmos1960.pdf:PDF},
+  groups  = {Start PhD, Links with operator theory},
+  printed = {Yes},
+}
+
+@Book{Cox1998,
+  author    = {Cox, David A. and Little, John and O'Shea, Donal},
+  editor    = {S. Axler, F.W. Gehring, K.A. Ribet},
+  publisher = {Springer},
+  title     = {Using Algebraic Geometry},
+  year      = {1998},
+  series    = {Graduate Texts in Mathematics},
+  groups    = {Links with algebraic geometry},
+}
+
+@Article{Batselier2014,
+  author  = {Batselier, Kim and Dreesen, Philippe and De Moor, Bart},
+  journal = {Journal of Computational and Applied Mathematics},
+  title   = {A fast recursive orthogonalization scheme for the Macaulay matrix},
+  year    = {2014},
+  file    = {:PDFs/InBib/Batselier2014.pdf:PDF},
+  groups  = {STADIUS publications, Start PhD},
+  printed = {Yes},
+}
+
+@PhdThesis{Batselier2013,
+  author = {Batselier, Kim},
+  school = {KU Leuven},
+  title  = {A Numerical Linear Algebra Framework for Solving Problems with Multivariate Polynomials},
+  year   = {2013},
+  groups = {Links with algebraic geometry, STADIUS publications},
+}
+
+@Article{CraigGotsman2008,
+  author  = {Gotsman, Craig and Toledo, Sivan},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
+  title   = {On The Computation Of Null Spaces Of Sparse Rectangular Matrices},
+  year    = {2008},
+  file    = {:PDFs/InBib/CraigGotsman2008.pdf:PDF},
+  groups  = {Numerical Linear Algebra, Start PhD},
+  printed = {Yes},
+}
+
+@Article{Sorber2012,
+  author  = {Sorber, Laurent and Van Barel, Marc and De Lathauwer, Lieven},
+  journal = {SIAM Journal on Optimization},
+  title   = {Unconstrained Optimization of Real Functions in Complex Variables},
+  year    = {2012},
+  groups  = {Paper Complex Variables, STADIUS publications},
+  printed = {Yes},
+}
+
+@Article{Sorber2014,
+  author  = {Sorber, Laurent and Van Barel, Marc and De Lathauwer, Lieven},
+  journal = {SIAM Journal on Numerical Analysis},
+  title   = {Numerical Solution of Bivariate and Polyanalytic Polynomial Systems},
+  year    = {2014},
+  file    = {:PDFs/InBib/Sorber2014.pdf:PDF},
+  groups  = {Paper Complex Variables, STADIUS publications},
+  printed = {Yes},
+}
+
+@InProceedings{DeMoor1994,
+  author    = {De Moor, Bart and Roorda, Berend},
+  booktitle = {Proc. of the 33rd IEEE Conference on Decision and Control (CDC)},
+  title     = {$L_2$-optimal linear system identification: Structured Total Least Squares for {SISO} Systems},
+  year      = {1994},
+  address   = {Lake Buena Vista, Florida, USA},
+  month     = dec,
+  note      = {Invited session on System Representation and Identification in the Behavioral Framework},
+  pages     = {2874--2879},
+  file      = {:PDFs/InBib/BartDeMoor1994.pdf:PDF},
+  groups    = {STADIUS publications, Subspace methods},
+  printed   = {Yes},
+}
+
+@Article{Moonen1989,
+  author  = {Moonen, Marc and De Moor, Bart and Vandenberghe, Lieven and Vandewalle, Joos},
+  journal = {INT. J. CONTROL},
+  title   = {On- and off-line identification of linear state-space models},
+  year    = {1989},
+  file    = {:PDFs/InBib/Moonen1989.pdf:PDF},
+  groups  = {STADIUS publications, Subspace methods},
+  printed = {Yes},
+}
+
+@Book{Regalia1995,
+  author    = {Regalia, Phillip A.},
+  editor    = {Marlin O. Thurston, William Middendorf},
+  publisher = {CRC Press},
+  title     = {Adaptive IIR Filtering in Signal Processing and Control},
+  year      = {1995},
+  groups    = {Links with operator theory},
+}
+
+@Book{Morgan1987,
+  author    = {Morgan, Alexander},
+  editor    = {E. O'Malley, Robert},
+  publisher = {Englewood Cliffs, NJ: Prentice-Hall},
+  title     = {Solving Polynomial Systems using Continuation for Engineering and Scientific Problems},
+  year      = {1987},
+  file      = {:PDFs/InBib/Morgan1987.pdf:PDF},
+  groups    = {Links with algebraic geometry},
+}
+
+@Book{Buergisser2013,
+  author    = {B{\"u}rgisser, Peter and Cucker, Felipe},
+  editor    = {Chenciner, A. and Coates, J. and Varadhan, S.R.S.},
+  publisher = {Springer},
+  title     = {Condition: The Geometry of Numerical Algorithms},
+  year      = {2013},
+  series    = {Grundlehren der mathematischen Wissenschaften, A Series of Comprehensive Studies in Mathematics},
+  groups    = {Numerical Linear Algebra, Links with algebraic geometry},
+}
+
+@InBook{J.C.1989,
+  author    = {J. C., Willems},
+  editor    = {Kirchgraber, Ursand Walther, Hans Otto},
+  pages     = {171--269},
+  publisher = {Vieweg+Teubner Verlag, Wiesbaden},
+  title     = {Models for Dynamics},
+  year      = {1989},
+  series    = {Dynamics Reported: A Series in Dynamical Systems and Their Applications},
+}
+
+@Article{Beurling1949,
+  author  = {Beurling, A.},
+  journal = {Acta Mathematica},
+  title   = {On two problems concerning linear transformations in {H}ilbert space},
+  year    = {1949},
+  pages   = {239 -- 255},
+  volume  = {81},
+  groups  = {Links with operator theory},
+}
+
+@Article{Lax1959,
+  author  = {Lax, Peter D.},
+  journal = {Acta Mathematica},
+  title   = {Translation Invariant Spaces},
+  year    = {1959},
+  pages   = {163 -- 178},
+  volume  = {101},
+  groups  = {Links with operator theory},
+}
+
+@Article{Douglas1970,
+  author  = {Douglas, R. G. and Shapiro, H.S. and Shields, A.L.},
+  journal = {Annales de l'institut {F}ourier},
+  title   = {Cyclic vectors and invariant subspaces for the backward shift operator},
+  year    = {1970},
+  number  = {1},
+  pages   = {37 -- 76},
+  volume  = {20},
+  groups  = {Links with operator theory},
+}
+
+@Article{Willems1986Combined,
+  author  = {Willems, Jan C.},
+  journal = {Automatica},
+  title   = {From time series to linear system, {P}art {I}: {F}inite dimensional linear time invariant systems; {P}art {II}: {E}xact modelling; {P}art {III}: {A}pproximate modelling},
+  year    = {1986, 1987},
+  number  = {5,6,1},
+  pages   = {561 -- 580, 675 -- 694, 87 -- 115},
+  volume  = {22/23},
+}
+
+@Article{Meier1967,
+  author  = {Meier, L. and Luenberger, D.G.},
+  journal = {IEEE Transactions on Automatic Control},
+  title   = {Approximation of Linear Constant Systems},
+  year    = {1967},
+  month   = oct,
+  number  = {5},
+  pages   = {585 -- 588},
+  volume  = {12},
+  groups  = {H2-Model order reduction},
+}
+
+@Book{Fuhrmann1981,
+  author    = {Fuhrmann, A. Paul},
+  publisher = {McGraw-Hill, Inc.},
+  title     = {Linear Systems and Operators in Hilbert Space},
+  year      = {1981},
+  address   = {New York},
+  edition   = {1st},
+  groups    = {Links with operator theory},
+}
+
+@Article{Telen2020,
+  author  = {Telen, Simon and Van Barel, Marc and Verschelde, Jan},
+  journal = {SIAM Journal on Scientific Computing},
+  title   = {A Robust Numerical Path Tracking Algorithm for Polynomial Homotopy Continuation},
+  year    = {2020},
+  number  = {6},
+  pages   = {A3610-A3637},
+  volume  = {42},
+  groups  = {Links with algebraic geometry},
+}
+
+@Unpublished{Bender,
+  author = {Matías R. Bender and Simon Telen},
+  note   = {Preprint at \url{https://arxiv.org/abs/2105.08472}},
+  title  = {Yet another eigenvalue algorithm for solving polynomial systems},
+  year   = {2022},
+  groups = {Links with algebraic geometry},
+}
+
+@Article{Mourrain2021,
+  author  = {Mourrain, Bernard and Telen, Simon and Van Barel, Marc},
+  journal = {Journal of symbolic computation},
+  title   = {Truncated normal forms for solving polynomial systems: {G}eneralized and efficient algorithms},
+  year    = {2021},
+  number  = {1},
+  pages   = {63-85},
+  volume  = {102},
+  groups  = {Links with algebraic geometry},
+}
+
+@InProceedings{Batserlier2012,
+  author    = {Batserlier, Kim and Dreesen, Philippe and De Moor, Bart},
+  booktitle = {Proc. 16th IFAC Symposium on System Identification, SYSID 2012},
+  title     = {Prediction Error Method Identification is an Eigenvalue Problem},
+  year      = {2012},
+  pages     = {221--226},
+  groups    = {STADIUS publications},
+}
+
+@Book{Garcia2016,
+  author    = {Garcia, S.R. and Mashreghi, J. and Ross, W. T.},
+  publisher = {Cambridge University Press},
+  title     = {Introduction to Model Spaces and their Operators},
+  year      = {2016},
+  groups    = {Links with operator theory},
+}
+
+@Article{Ball2013,
+  author  = {Ball, J.A. and Bolotnikov, V.},
+  journal = {Integr. Equ. Oper. Theory},
+  title   = {Weighted Bergman Spaces: Shift-Invariant Subspaces and Input/State/Output Linear Systems},
+  year    = {2013},
+  pages   = {301-356},
+  volume  = {76},
+  groups  = {Links with operator theory},
+}
+
+@Article{Heuberger1995,
+  author  = {Heuberger, P.S.C. and {Van den Hof}, P. M. J. and Bosgra, O. H.},
+  journal = {IEEE Transactions on Automatic Control},
+  title   = {A Generalized Orthonormal Basis for Linear Dynamical Systems},
+  year    = {1995},
+  number  = {3},
+  volume  = {40},
+  groups  = {Links with operator theory},
+}
+
+@Article{Vermeersch2021,
+  author  = {Vermeersch, C. and De Moor, B.},
+  journal = {IFAC-PapersOnLine},
+  title   = {A Column Space Based Approach to Solve Systems of Multivariate Polynomial Equations},
+  year    = {2021},
+  note    = {Part of Special Issue: 24th International Symposium on Mathematical Theory of Networks and Systems (MTNS)},
+  number  = {9},
+  pages   = {137--144},
+  volume  = {54},
+}
+
+@Article{Vaidyanathan1985,
+  author  = {Vaidyanathan, P. P.},
+  journal = {IEEE Transactions on Circuits and Systems},
+  title   = {The Discrete-Time Bounded-Real Lemma in Digital Filtering},
+  year    = {1985},
+  number  = {9},
+  pages   = {918--924},
+  volume  = {CAS-32},
+  groups  = {Start PhD},
+}
+
+@Article{Regalia1995a,
+  author  = {Regalia, A.P. and Mboup, Mamadou},
+  journal = {System and Control Letters},
+  title   = {An equivalence between rational {$\mathcal{H}_2$} and Hankel-norm approximations},
+  year    = {1995},
+  pages   = {167--172},
+  volume  = {24},
+}
+
+@Book{Walsh1960,
+  author    = {Walsh, J.L.},
+  publisher = {American Mathematical Society},
+  title     = {Interpolation and Approximation by Rational Functions in the Complex Domain},
+  year      = {1960},
+  edition   = {3th},
+  series    = {American Mathematical Society Colloquium Publications},
+  volume    = {XX},
+  groups    = {H2-Model order reduction},
+}
+
+@Conference{DeMoor1993,
+  author    = {De Moor, B. and Van Overschee, P. and Schelfhout, G.},
+  booktitle = {Proc. of the 12th {IFAC} World Congress},
+  title     = {{$H_2$} model reduction for {SISO} systems},
+  year      = {1993},
+  address   = {Sydney, Australia},
+  month     = jul,
+  pages     = {227--230},
+  groups    = {H2-Model order reduction},
+}
+
+@Article{Wahlberg2003,
+  author  = {Wahlberg, B.},
+  journal = {SIAM Review},
+  title   = {Orthogonal Rational Functions: A Transformation Analysis},
+  year    = {2003},
+  number  = {4},
+  pages   = {689--705},
+  volume  = {45},
+}
+
+@Article{Fan1993,
+  author  = {Fan, H. and Doroslova{\v c}ki},
+  journal = {{IEEE} Trans. Circuits and Systems},
+  title   = {On "global convergence" of {S}teiglitz--{McBride adaptive algorithm}},
+  year    = {1993},
+  number  = {2},
+  pages   = {73--87},
+  volume  = {40},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Agudelo2021,
+  author  = {Agudelo, O.M. and Vermeersch, C. and {De Moor}, B.},
+  journal = {IFAC PapersOnLine},
+  title   = {Globally optimal {H2}-Norm Model Reduction: A Numerical Linear Algebra Approach},
+  year    = {2021},
+  number  = {9},
+  pages   = {564--571},
+  volume  = {54},
+}
+
+@InBook{Beattie2017,
+  author    = {Beattie, C. and Gugercin, S.},
+  chapter   = {Chapter 7: Model Reduction by Rational Interpolation},
+  editor    = {Benner, P. and Cohen, A. and Ohlberger, M. and Willcox, K.},
+  pages     = {297--334},
+  publisher = {SIAM},
+  title     = {Model Reduction and Approximation},
+  year      = {2017},
+  address   = {Philadelphia, PA, USA},
+  groups    = {H2-Model order reduction},
+}
+
+@Article{Aigrain1949,
+  author  = {Aigrain, P.R. and Williams, E.M.},
+  journal = {Journal of Applied Physics},
+  title   = {Synthesis of $n$-Reactance Networks for Desired Transient Response},
+  year    = {1949},
+  number  = {6},
+  pages   = {597--600},
+  volume  = {20},
+  groups  = {H2-Model order reduction},
+}
+
+@InBook{James1947,
+  chapter   = {Ch. 7},
+  editor    = {James, H.M. and Nichols, N.B. and Phillips, R.S.},
+  publisher = {New York: McGraw--Hill Book Company, Inc.},
+  title     = {Theory of Servomechanisms},
+  year      = {1947},
+  series    = {Massachusets Institute of Technology: Radiation Laboratory Series},
+  volume    = {25},
+  groups    = {H2-Model order reduction},
+  url       = {http://www.introni.it/pdf/25%20-%20Theory%20of%20Servomechanisms.pdf},
+}
+
+@Article{Baratchart1988,
+  author  = {Baratchart, L. and Oltivi, M.},
+  journal = {System \& Control Letters},
+  title   = {Index of critical points in rational {$l^2$}-approximation},
+  year    = {1988},
+  number  = {3},
+  pages   = {167--174},
+  volume  = {10},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Spanos1992,
+  author  = {Spanos, J.T. and Milman, M.H. and Mingori, D.L.},
+  journal = {Automatica},
+  title   = {A New Algorithm for $L_2$ Optimal Model Reduction},
+  year    = {1992},
+  number  = {5},
+  pages   = {897--909},
+  volume  = {28},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Baratchart1991,
+  author  = {Baratchart, L. and Cardelli, M. and Olivi, M.},
+  journal = {Automatica},
+  title   = {Identification and Rational $L^2$ Approximation: A Gradient Algorithm},
+  year    = {1991},
+  number  = {2},
+  pages   = {413--418},
+  volume  = {27},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Wilson1970,
+  author  = {Wilson, D.A.},
+  journal = {Proceedings of the Institution of Electrical Engineers},
+  title   = {Optimum solution of model-reduction problem},
+  year    = {1970},
+  number  = {6},
+  pages   = {1161--1165},
+  volume  = {117},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Bryson1990,
+  author  = {Bryson, A.E. and Carrier, A.},
+  journal = {Journal of Guidance, Control, and Dynamics},
+  title   = {Second-Order Algorithm for Optimal Model Order Reduction},
+  year    = {1990},
+  number  = {5},
+  pages   = {887--892},
+  volume  = {13},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Wilson1974,
+  author  = {Wilson, D.A.},
+  journal = {International Journal of Control},
+  title   = {Model reduction for multivariable systems},
+  year    = {1974},
+  number  = {1},
+  pages   = {57--64},
+  volume  = {20},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{VanDoren2010,
+  author  = {Van Doren, P. and Gallivan, K.A. and Absil, P.-A.},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
+  title   = {$\mathcal{H}_2$-Optimal Model Reduction With Higher Order Poles},
+  year    = {2010},
+  note    = {Second revision},
+  number  = {5},
+  pages   = {2738--2753},
+  volume  = {31},
+  groups  = {H2-Model order reduction},
+}
+
+@Article{Gugercin2008,
+  author  = {Gugercin, S. and Antoulas, A.C. and Beattie, C.},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
+  title   = {$\mathcal{H}_2$ Model Reduction for Large-Scale Linear Dynamical Systems},
+  year    = {2008},
+  number  = {2},
+  pages   = {609--638},
+  volume  = {30},
+}
+
+@Misc{KreutzDelgado2009,
+  author    = {Kreutz-Delgado, K.},
+  title     = {The Complex Gradient Operator and the CR-Calculus},
+  year      = {2009},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.0906.4835},
+  groups    = {Paper Complex Variables},
+  publisher = {arXiv},
+  url       = {https://arxiv.org/abs/0906.4835},
+}
+
+@Article{Vermeersch2019,
+  author  = {Vermeersch, C. and {De Moor}, B.},
+  journal = {{IEEE} Control Systems Letters},
+  title   = {Globally Optimal Least-Squares {ARMA} Model Identification Is an Eigenvalue Problem},
+  year    = {2019},
+  number  = {4},
+  pages   = {1062--1067},
+  volume  = {3},
+  groups  = {STADIUS publications},
+}
+
+@Article{Adali2011,
+  author  = {Adali, T. and Schreier, P.J. and Scharf, L.L.},
+  journal = {{IEEE} Transactions on signal processing},
+  title   = {Complex-Valued Signal Processing: The Proper Way to Deal With Impropriety},
+  year    = {2011},
+  number  = {11},
+  volume  = {59},
+  groups  = {Paper Complex Variables},
+}
+
+@Conference{Ahmad2011,
+  author    = {Ahmad, M.I. and Frangos, M. and Jaimoukha, I.M.},
+  booktitle = {Proceedings of the 18th World Congress},
+  title     = {Second order $\mathcal{H}_2$ optimal approximation of linear dynamical systems},
+  year      = {2011},
+}
+
+@TechReport{Vermeersch2022,
+  author      = {Vermeersch, C. and {De Moor}, B.},
+  institution = {KU Leuven, ESAT (STADIUS)},
+  title       = {Two Complementary Block Macaulay Algorithms to Solve Multiparameter Eigenvalue Problems},
+  year        = {2022},
+  address     = {Leuven, Belgium},
+  groups      = {STADIUS publications},
+}
+
+@InProceedings{Batselier2012,
+  author    = {Batselier, K. and Dreesen, P. and {De Moor}, B.},
+  booktitle = {Proc. 16th {IFAC} Symposium on System Identification, {SYSID} 2012},
+  title     = {Prediction error method identification is an eigenvalue problem.},
+  year      = {2012},
+  journal   = {Proc.},
+}
+
+@Book{VanOverschee1996,
+  author    = {{Van Overschee}, P. and {De Moor}, B.},
+  publisher = {Kluwer Academic Publishers},
+  title     = {Subspace Identification for Linear Systems: Theory -- Implementation -- Applications},
+  year      = {1996},
+}
+
+@Book{Stetter2004,
+  author    = {Stetter, H.J.},
+  publisher = {SIAM, Philadelphia, PA},
+  title     = {Numerical Polynomial Algebra},
+  year      = {2004},
+}
+
+@PhdThesis{Dreesen2013,
+  author = {Dreesen, P.},
+  school = {KU Leuven},
+  title  = {Back to the Roots: Polynomial System Solving Using Linear Algebra},
+  year   = {2013},
+}
+
+@Article{DeCock2021,
+  author  = {De Cock, K. and De Moor, B.},
+  journal = {IFAC-PapersOnLine},
+  title   = {Multiparameter Eigenvalue Problems and Shift-Invariance},
+  year    = {2021},
+  month   = jul,
+  note    = {Special Issue: 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020: Cambridge, United Kingdom},
+  number  = {9},
+  pages   = {159--165},
+  volume  = {54},
+  groups  = {STADIUS publications},
+}
+
+@Book{Trefethen2019,
+  author    = {Trefethen, L. N.},
+  editor    = {Greenspan, E. and et al.},
+  publisher = {SIAM},
+  title     = {Approximation Theory and Approximation Practice, Extended Edition},
+  year      = {2019},
+  address   = {Philadelphia},
+  groups    = {Numerical Linear Algebra},
+}
+
+@Article{Roorda2001,
+  author  = {Roorda, B. and Weiland, S.},
+  journal = {Linear algebra and its applications},
+  title   = {Optimal angle reduction--a behavioral approach to linear system approximation},
+  year    = {2001},
+  number  = {1--3},
+  pages   = {189--235},
+  volume  = {337},
+}
+
+@Book{Vidyasagar1987,
+  author    = {Vidyasagar, M.},
+  editor    = {Willsky, A.S.},
+  publisher = {The MIT Press, Cambridge, Massachusetts},
+  title     = {Control System Synthesis: A Factorization Approach},
+  year      = {1987},
+  series    = {Signal Processing, Optimization, and Control},
+}
+
+@Book{Ball1990,
+  author    = {Ball, J.A. and Gohberg, I. and Rodman, L.},
+  editor    = {Gohberg, I.},
+  publisher = {Springer Basel AG},
+  title     = {Interpolation of Rational Matrix Functions},
+  year      = {1990},
+  series    = {Operator Theory: Advances and Applications},
+  volume    = {45},
+}
+
+@Book{SzNagy2010,
+  author    = {{Sz.-Nagy} and Foias, C. and Bercovici, H. and Kérchy, L.},
+  publisher = {Springer New York, NY},
+  title     = {Harmonic Analysis of Operators on Hilvert Space},
+  year      = {2010},
+  edition   = {2},
+  series    = {Universitext},
+}
+
+@Book{Antoulas2005,
+  author    = {Antoulas, A. C.},
+  editor    = {Smith, R.C.},
+  publisher = {Society for Industrial and Applied Mathematics},
+  title     = {Approximation of Large-Scale Dynamical Systems},
+  year      = {2005},
+  address   = {Philadelphia, PA USA.},
+  series    = {Advances in Design and Control},
+}
+
+@Article{Neyman1948,
+  author  = {Neyman, J. and Scott, E. L.},
+  journal = {Econometrica},
+  title   = {Consisten Estimates Based on Partially Consistent Observations},
+  year    = {1948},
+  number  = {1},
+  pages   = {1--32},
+  volume  = {16},
+}
+
+@InCollection{Pintelon2002,
+  author    = {Pintelon, R. and Schoukens, J.},
+  booktitle = {Total Least Squares and Errors-In-Variables Modeling: Analysis, Algorithms and Applications},
+  publisher = {Kluwer Academic Publishers},
+  title     = {Identification of semi-linear models within an errors-in-variables framework},
+  year      = {2002},
+  editor    = {Van Huffel, S. and Lemmerling, P.},
+  pages     = {165--177},
+}
+
+@Article{Soederstroem2002,
+  author  = {S{\"o}derstr{\"o}m, T. and Soverini, U. and Mahata, K.},
+  journal = {Signal Processing},
+  title   = {Perspectives on Errors-In-Variables Estimation for Dynamic Systems},
+  year    = {2002},
+  number  = {8},
+  pages   = {1139--1154},
+  volume  = {82},
+}
+
+@Conference{Guidorzi2002,
+  author    = {Guidorzi, R. and Diversi, R. and Soverini, U.},
+  booktitle = {Total Least Squares and Errors-In-Variables Modeling: Analysis, Algorithms and Applications},
+  title     = {Errors-In-Variables Filtering in Behavioural and State-Space Contexts},
+  year      = {2002},
+  editor    = {{Van Huffel}, S. and Lemmerling, P.},
+  series    = {3rd International Workshop on Total Least Squares and Errors-In-Variables Modeling, August 2001, Leuven, Belgium.},
+}
+
+@Conference{Guidoni1998,
+  author    = {Guidoni, P and Guidorzi, R.},
+  booktitle = {Proceedings of EUSIPCO 98},
+  title     = {Frisch filtering of noisy signals},
+  year      = {1998},
+  address   = {Rhodes, Greece},
+  month     = sep,
+  pages     = {2117--2120},
+  volume    = {4},
+}
+
+@Article{Guidorzi2003,
+  author  = {Guidorzi, R. and Diversi, R. and Soverini, U.},
+  journal = {Automatica},
+  title   = {Optimal Errors-In-Variables Filtering},
+  year    = {2003},
+  number  = {2},
+  pages   = {281--289},
+  volume  = {39},
+}
+
+@Conference{DeMoor2002,
+  author    = {{De Moor}, B.},
+  booktitle = {Total Least Squares and Errors-In-Variables Modeling: Analysis, Algorithms and Applications},
+  title     = {Weighted Total Least Squares, Rank Deficiency and Linear Matrix Structures},
+  year      = {2002},
+  editor    = {{Van Huffel}, S. and Lemmerling, P.},
+  pages     = {293--304},
+  series    = {3rd International Workshop on Total Least Squares and Errors-In-Variables Modeling, August 2001, Leuven, Belgium},
+}
+
+@InProceedings{Cheng1994,
+  author    = {Cheng, Y. and De Moor, B.},
+  booktitle = {Proc. of the American Control Conference},
+  title     = {A continuous time power iteration method for computing a lower bound of $\mu^*$},
+  year      = {1994},
+  address   = {Baltimore, Maryland, US.},
+  month     = jun,
+  pages     = {1416--1417},
+}
+
+@InProceedings{Beghelli1994,
+  author    = {Beghelli, S. and Castaldi, P. and Guidorzi, R.~P. and Soverini, U.},
+  booktitle = {Proc. of the 10'th IFAC Symposium on System Identification},
+  title     = {The Frisch Identification Scheme: Properties of The Solution In The Dynamic Case},
+  year      = {1994},
+  address   = {Copenhagen, Denmark},
+  month     = jul,
+  pages     = {889--893},
+}
+
+@InCollection{DeMoor1995,
+  author    = {De Moor, B.},
+  booktitle = {SVD and Signal Processing III},
+  publisher = {Elsevier Science B.V.},
+  title     = {The Riemannian Singular Value Decomposition},
+  year      = {1995},
+  editor    = {Moonen, M. and De Moor, B.},
+  pages     = {61--78},
+  series    = {Algotihms, Architectures and Applications},
+  journal   = {SVD and Signal Processing},
+}
+
+@Article{Dehaene1997,
+  author  = {Dehaene, J. and Yi, C. and De Moor, B.},
+  journal = {IEEE Transactions on Automatic Control},
+  title   = {Calculation of the Structured Singular Value with Gradient-Based Optimization Algorithms on a Lie Group of Structured Unitary Matrices},
+  year    = {1997},
+  month   = nov,
+  number  = {11},
+  pages   = {1596--1600},
+  volume  = {42},
+}
+
+@InProceedings{Yi1995,
+  author    = {Yi, C. and Dehaene, J. and De Moor, B.},
+  booktitle = {Proc. of the American Control Conference (ACC '95)},
+  title     = {Computation of the structured singular value with gradient based optimization algorithms},
+  year      = {1995},
+  address   = {Seattle, Washington, USA},
+  month     = jun,
+  pages     = {3034--3040},
+}
+
+@InProceedings{DeMoor1995a,
+  author    = {De Moor, B.},
+  booktitle = {Pro. of the 34th Conference on Decision \& Control},
+  title     = {Continuous-time algorithms for the Riemannian {SVD}},
+  year      = {1995},
+  address   = {New Orleans, LA, USA},
+  month     = dec,
+  pages     = {1084--1090},
+}
+
+@InBook{DeMoor1997,
+  author    = {De Moor, B.},
+  chapter   = {Structured Total Least Squares for Hankel Matrices},
+  editor    = {Paulraj, A. and Roychowdhury, V. and Schaper, C.~D.},
+  pages     = {243--258},
+  publisher = {Springer New York, NY},
+  title     = {Communications, Computation, Control and Signal Processing: a tribute to Thomas Kailath},
+  year      = {1997},
+}
+
+@Article{Lemmerling1996,
+  author  = {Lemmerling, P. and De Moor, B. and Van Huffel, S.},
+  journal = {IEEE Transactions on Signal Processing},
+  title   = {On the equivalence of constrained total least squares and structured total least squares},
+  year    = {1996},
+  number  = {11},
+  pages   = {2908--2911},
+  volume  = {44},
+}
+
+@InCollection{DeMoor1997a,
+  author    = {De Moor, B.},
+  booktitle = {Recent Advances in Total Least Squares Techniques and Errors-in-Variables Modeling},
+  publisher = {SIAM, Philadelphia, USA},
+  title     = {Linear System Identification, Structured Total Least Squares and the Riemannian {SVD}},
+  year      = {1997},
+  editor    = {Van Huffel, S.},
+  pages     = {225--238},
+  journal   = {Recent Advances in Total Least},
+}
+
+@InProceedings{DeMoor1997b,
+  author    = {De Moor, B.},
+  booktitle = {Proceedings of the Workshop on Open Problems in Mathematical Systems Theory and Control},
+  title     = {Convergence of an algorithm for the Riemannian {SVD}},
+  year      = {1997},
+  address   = {Institute of Mathematics, University of Li{\`e}ge, Belgium},
+  editor    = {Blondeel, V. and Vidyasagar, M.},
+  month     = jun,
+  pages     = {23--26},
+}
+
+@InProceedings{Cambre1998,
+  author    = {Cambre, J. and De Moor, B.},
+  booktitle = {Proc. of the Mathematical Theory of Networks and Systems (MTNS98)},
+  title     = {Solving the Structured Total Least Squares problem using the Riemannian {SVD}},
+  year      = {1998},
+  address   = {Padova, Italy},
+  month     = jul,
+  pages     = {715--718},
+}
+
+@Article{Lemmerling2001a,
+  author  = {Lemmerling, P. and Vanhamme, L. and Van Huffel, S. and De Moor, B.},
+  journal = {Signal Processing},
+  title   = {{IQML}-like algorithms for solving structured total least squares problems: a unified view},
+  year    = {2001},
+  pages   = {1935--1945},
+  volume  = {81},
+}
+
+@Article{Lemmerling2001b,
+  author  = {Lemmerling, P. and Van Huffel, S.},
+  journal = {Numerical Algorithms},
+  title   = {Analysis of the structured total least squares problem for Hankel/Toeplitz matrices},
+  year    = {2001},
+  pages   = {89--114},
+  volume  = {27},
+}
+
+@Book{VanHuffel1991,
+  author    = {Van Huffel, S. and Vandewalle, J.},
+  publisher = {SIAM Philadelphia, USA},
+  title     = {The Total Least Squares Problem: Computational Aspects and Analysis},
+  year      = {1991},
+}
+
+@InBook{VanHuffel1997,
+  editor    = {Van Huffel, S.},
+  pages     = {225--239},
+  publisher = {SIAM},
+  title     = {Recent Advances in Total Least Squares Techniques and Errors-In-Variables modelling},
+  year      = {1997},
+}
+
+@InCollection{Mastronardi2002,
+  author    = {Mastronardi, N. and Lemmerling, P. and Van Huffel, S.},
+  booktitle = {Total Least Squares and Errors-In-Variables Modeling: Analysis, Algorithms and Applications},
+  publisher = {Kluwer Academic Publishers},
+  title     = {Fast Structured Least Squares Algorithms via Exploitation of The Displacement Structure},
+  year      = {2002},
+  editor    = {Van Huffel, S. and Lemmerling, P.},
+  pages     = {93 -- 106},
+}
+
+@Article{Karlsson2000,
+  author  = {Karlsson, E. and S{\"o}derstr{\"o}m, T. and Stoica, P.},
+  journal = {Signal Processing},
+  title   = {The Cram{\'e}r-Rao lower bound for noisy input-output systems},
+  year    = {2000},
+  pages   = {2421--2447},
+  volume  = {80},
+}
+
+@Article{Heij1999,
+  author  = {Heij, C. and Scherrer, W.},
+  journal = {Automatica},
+  title   = {Consistency of system identification by global total least squares},
+  year    = {1999},
+  pages   = {993--1008},
+  volume  = {35},
+}
+
+@Article{Eckart1936,
+  author  = {Eckart, C. and Young, G.},
+  journal = {Psychometrika},
+  title   = {The Approximation of One Matrix by Another of Lower Rank},
+  year    = {1936},
+  number  = {3},
+  pages   = {211--218},
+  volume  = {1},
+}
+
+@Article{DeMoor1991,
+  author  = {De Moor, B. and Golub, G.H.},
+  journal = {{SIAM} Journal on Matrix Analysis and Applications},
+  title   = {The Restricted Singular Value Decomposition: Properties and Applications},
+  year    = {1991},
+  number  = {3},
+  pages   = {401--425},
+  volume  = {12},
+}
+
+@InProceedings{Guidorzi1997,
+  author    = {Guidorzi, R.~P. and Stoian, A.},
+  booktitle = {Proc. of the 11th International Conference on Control Systems and Computer Science},
+  title     = {Frisch filtering of noisy behaviours},
+  year      = {1997},
+  address   = {Bucharest, Romania},
+  month     = may,
+  pages     = {70--72},
+  volume    = {1},
+}
+
+@Unpublished{Telen2022,
+  author = {Telen, S.},
+  note   = {Workshop on \textit{Solving Polynomial Equations \& Applications} at {CWI} {A}msterdam},
+  title  = {Solving Polynomial Equations and Applications},
+  month  = oct,
+  year   = {2022},
+}
+
+@Article{Faugere1999,
+  author  = {Faug{\`e}re, J.-C.},
+  journal = {Journal of pure and applied algebra},
+  title   = {A new efficient algorithm for computing Gr{\"o}bner bases ({F4})},
+  year    = {1999},
+  number  = {1-3},
+  pages   = {61--88},
+  volume  = {139},
+}
+
+@Unpublished{Ottaviani2017,
+  author = {Ottaviani, G. and Spaenlehauer, P.-J. and Sturmfels, B.},
+  note   = {Available online: \url{https://arxiv.org/abs/1311.2376}},
+  title  = {Exact Solutions in Structured Low-Rank Approximation},
+  month  = feb,
+  year   = {2017},
+}
+
+@Article{Spearman1904,
+  author  = {Spearman, C.},
+  journal = {Amer. J. Psychol.},
+  title   = {General intelligence, objectively determined and measured},
+  year    = {1904},
+  pages   = {201--292},
+  volume  = {15},
+}
+
+@Book{Frisch1934,
+  author    = {Frisch, R.},
+  publisher = {Universitetets {\O}konomiske Instituut},
+  title     = {Statistical Confluence Analysis by Means of Complete Regression Systems},
+  year      = {1934},
+  volume    = {5},
+}
+
+@Article{Ning2015,
+  author  = {Ning, L. and Georgiou, T.~T. and Tannenbaum, A. and Boyd, S.~P.},
+  journal = {SIAM Review},
+  title   = {Linear Models Based on Noisy Data and the Frisch Scheme},
+  year    = {2015},
+  number  = {2},
+  pages   = {167--197},
+  volume  = {57},
+}
+
+@Book{Heij1989,
+  author    = {Heij, C.},
+  editor    = {Thoma, M. and Wyner, A.},
+  publisher = {Springer-Verlag Berlin Heidelberg GmbH},
+  title     = {Deterministic Identification of Dynamical Systems},
+  year      = {1989},
+  series    = {Lecture Notes in Control and Information Sciences},
+  volume    = {127},
+}
+
+@Article{Xu1995,
+  author  = {Xu, G. and LIU, H. and Tong, L. and Kailath, T.},
+  journal = {IEEE Transactions on Signal Processing},
+  title   = {A Least-Squares Approach to Blind Channel Identification},
+  year    = {1995},
+  number  = {12},
+  pages   = {2982--2993},
+  volume  = {43},
+}
+
+@Article{Telen2018,
+  author  = {Telen, S. and Van Barel, M.},
+  journal = {Journal of Computational and Applied Mathematics},
+  title   = {A stabilized normal form algorithm for generic systems of polynomial equations.},
+  year    = {2018},
+  pages   = {119--132},
+  volume  = {342},
+}
+
+@Article{Telen2018a,
+  author  = {Telen, S. and Mourrain, B. and Van Barel, M.},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
+  title   = {Solving Polynomial Systems via Truncated Normal Forms},
+  year    = {2018},
+  number  = {3},
+  pages   = {1421--1447},
+  volume  = {39},
+}
+
+@Article{Telen2020a,
+  author  = {Telen, S.},
+  journal = {Journal of Pure and Applied Algebra},
+  title   = {Numerical root finding via Cox rings},
+  year    = {2020},
+  number  = {9, art. no. 106367},
+  volume  = {224},
+}
+
+@Article{Bender2022,
+  author  = {Bender, M. R. and Telen, S.},
+  journal = {Mathematics of Computation},
+  title   = {Toric eigenvalue methods for solving sparse polynomial systems},
+  year    = {2022},
+  number  = {337},
+  pages   = {2397--2429},
+  volume  = {91},
+}
+
+@InProceedings{Breiding2018,
+  author    = {Breiding, P. and Timme, S.},
+  booktitle = {International Congress on Mathematical Software},
+  title     = {HomotopyContinuation.jl: A Package for Homotopy Continuation in Julia},
+  year      = {2018},
+  pages     = {458--465},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Start PhD\;0\;1\;0x669966ff\;\;Initial list of papers received from Bart De Moor at the start of the PhD.\;;
+1 StaticGroup:Links with operator theory\;0\;1\;0x800000ff\;\;\;;
+1 StaticGroup:Links with algebraic geometry\;0\;1\;0xe6e64dff\;\;\;;
+1 StaticGroup:STADIUS publications\;0\;1\;0x0000ffff\;\;\;;
+1 StaticGroup:Numerical Linear Algebra\;0\;1\;0xccffffff\;\;\;;
+1 StaticGroup:Paper Complex Variables\;0\;1\;0xffff4dff\;\;\;;
+1 StaticGroup:Subspace methods\;0\;1\;0xff6666ff\;\;\;;
+1 StaticGroup:H2-Model order reduction\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Behavioral Modeling - miniproject\;0\;1\;0xffccffff\;\;\;;
+}
+
+,
