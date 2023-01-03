@@ -1276,6 +1276,17 @@
   pages     = {458--465},
 }
 
+@Book{Ljung1999,
+  author    = {Ljung, L.},
+  editor    = {Kailath, T.},
+  publisher = {Prentice-Hall},
+  title     = {System Identification: Theory for the User},
+  year      = {1999},
+  address   = {Upper Saddle River, NJ, USA},
+  edition   = {2nd},
+  series    = {Prentice-Hall Information and System Sciences Series},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
