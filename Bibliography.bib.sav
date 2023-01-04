@@ -140,7 +140,7 @@
 
 @Conference{Markovsky2004,
   author    = {Markovsky, Ivan and Willems, Jan C. and Van Hufffel, Sabine and De Moor, Bart and Pintelon, Rik},
-  booktitle = {IEEE Conference on Decision and Control},
+  booktitle = {{IEEE} Conference on Decision and Control},
   title     = {Application of Structured Total Least Squares for System Identification},
   year      = {2004},
   file      = {:PDFs/InBib/2004-Application_of_structured_total_least_squares_for_system_identification.pdf:PDF},
@@ -782,9 +782,11 @@
 
 @InProceedings{Batselier2012,
   author    = {Batselier, K. and Dreesen, P. and {De Moor}, B.},
-  booktitle = {Proc. 16th {IFAC} Symposium on System Identification, {SYSID} 2012},
+  booktitle = {Proc. 16th {IFAC} Symposium on System Identification, ({SYSID} 2012)},
   title     = {Prediction error method identification is an eigenvalue problem.},
   year      = {2012},
+  address   = {Brussels, Belgium},
+  pages     = {221--226},
   journal   = {Proc.},
 }
 
@@ -1295,6 +1297,31 @@
   year      = {1976},
   address   = {Oakland, CA, USA},
   series    = {Holden-Day Series in Time Series Analysis},
+}
+
+@Book{Soederstroem2018,
+  author    = {S{\"o}derstr{\"o}m, T.},
+  publisher = {Springer},
+  title     = {Errors-in-variables Methods in System Identification},
+  year      = {2018},
+  series    = {Communications and Control Engineering},
+}
+
+@PhdThesis{Mastronardi2001,
+  author = {Mastronardi, N.},
+  school = {ESAT/SISTA, KU Leuven},
+  title  = {Fast and reliable algorithms for structured total least squares and related matrix problems},
+  year   = {2001},
+}
+
+@Article{Markovsky2005,
+  author  = {Markovsky, I. and Van Huffel, S. and Pintelon, R.},
+  journal = {{SIAM} Journal on Matrix Analysis and Applications},
+  title   = {Block-Toeplitz/Hankel structured total least squares},
+  year    = {2005},
+  number  = {4},
+  pages   = {1083--1099},
+  volume  = {26},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

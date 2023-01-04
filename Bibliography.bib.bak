@@ -782,9 +782,11 @@
 
 @InProceedings{Batselier2012,
   author    = {Batselier, K. and Dreesen, P. and {De Moor}, B.},
-  booktitle = {Proc. 16th {IFAC} Symposium on System Identification, {SYSID} 2012},
+  booktitle = {Proc. 16th {IFAC} Symposium on System Identification, ({SYSID} 2012)},
   title     = {Prediction error method identification is an eigenvalue problem.},
   year      = {2012},
+  address   = {Brussels, Belgium},
+  pages     = {221--226},
   journal   = {Proc.},
 }
 
@@ -1285,6 +1287,41 @@
   address   = {Upper Saddle River, NJ, USA},
   edition   = {2nd},
   series    = {Prentice-Hall Information and System Sciences Series},
+}
+
+@Book{Box1976,
+  author    = {Box, G. E. and Jenkins, G. M.},
+  editor    = {Robinson, E.},
+  publisher = {Holden-Day},
+  title     = {Time Series Analysis: Forecasting and Control},
+  year      = {1976},
+  address   = {Oakland, CA, USA},
+  series    = {Holden-Day Series in Time Series Analysis},
+}
+
+@Book{Soederstroem2018,
+  author    = {S{\"o}derstr{\"o}m, T.},
+  publisher = {Springer},
+  title     = {Errors-in-variables Methods in System Identification},
+  year      = {2018},
+  series    = {Communications and Control Engineering},
+}
+
+@PhdThesis{Mastronardi2001,
+  author = {Mastronardi, N.},
+  school = {ESAT/SISTA, KU Leuven},
+  title  = {Fast and reliable algorithms for structured total least squares and related matrix problems},
+  year   = {2001},
+}
+
+@Article{Markovsky2005,
+  author  = {Markovsky, I. and Van Huffel, S. and Pintelon, R.},
+  journal = {{SIAM} Journal on Matrix Analysis and Applications},
+  title   = {Block-Toeplitz/Hankel structured total least squares},
+  year    = {2005},
+  number  = {4},
+  pages   = {1083--1099},
+  volume  = {26},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
