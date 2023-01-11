@@ -140,7 +140,7 @@
 
 @Conference{Markovsky2004,
   author    = {Markovsky, Ivan and Willems, Jan C. and Van Hufffel, Sabine and De Moor, Bart and Pintelon, Rik},
-  booktitle = {IEEE Conference on Decision and Control},
+  booktitle = {{IEEE} Conference on Decision and Control},
   title     = {Application of Structured Total Least Squares for System Identification},
   year      = {2004},
   file      = {:PDFs/InBib/2004-Application_of_structured_total_least_squares_for_system_identification.pdf:PDF},
