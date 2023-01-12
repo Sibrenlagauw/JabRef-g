@@ -764,11 +764,15 @@
   groups  = {Paper Complex Variables},
 }
 
-@Conference{Ahmad2011,
+@InProceedings{Ahmad2011,
   author    = {Ahmad, M.I. and Frangos, M. and Jaimoukha, I.M.},
-  booktitle = {Proceedings of the 18th World Congress},
+  booktitle = {IFAC Proceedings Volumes},
   title     = {Second order $\mathcal{H}_2$ optimal approximation of linear dynamical systems},
   year      = {2011},
+  address   = {Milano (Italy)},
+  number    = {1},
+  pages     = {12767--12771},
+  volume    = {44},
 }
 
 @TechReport{Vermeersch2022,
@@ -1332,6 +1336,55 @@
   number  = {2},
   pages   = {507--531},
   volume  = {44},
+}
+
+@Article{VanDooren2008,
+  author  = {Van Dooren, P. and Gallivan, K.A. and Absil, P.-A.},
+  journal = {Applied Mathematics Letters},
+  title   = {$H_2$=optimal model reduction of {MIMO} systems},
+  year    = {2008},
+  pages   = {1267--1273},
+  volume  = {21},
+}
+
+@InBook{Antoulas2010,
+  author    = {Antoulas, A.C. and Beattie, C.A. and Gugercin, S.},
+  chapter   = {Interpolatory model reduction of large-scale dynamical systems},
+  editor    = {Mohammadpour, J. and Grigoriadis, K.M.},
+  pages     = {3--58},
+  publisher = {Springer},
+  title     = {Efficient Modeling and Control of Large-Scale Systems},
+  year      = {2010},
+  address   = {Boston, MA, USA},
+}
+
+@InProceedings{Gugercin2006,
+  author    = {Gugercin, S. and Antoulas, A.C. and Beattie, C.A.},
+  booktitle = {Proc. of the 17th International Symposium on Mathematical Theory of Networks and Systems (MTNS)},
+  title     = {A rational Krylov iteration for optimal $\mathcal{H}_2$ model reduction},
+  year      = {2006},
+  address   = {Kyoto, Japan},
+  pages     = {1665--1667},
+}
+
+@Article{Anic2013,
+  author  = {Ani{\'c}, B. and Beattie, C. and Gugercin, S. and Antoulas, A.C.},
+  journal = {Automatica},
+  title   = {Interpolatory weighted-$\mathcal{H}_2$ model reduction},
+  year    = {2013},
+  number  = {5},
+  pages   = {1275--1280},
+  volume  = {49},
+}
+
+@Article{Gallivan2004,
+  author  = {Gallivan, K.A. and Vandendrope, A. and Van Dooren, P.},
+  journal = {{SIAM} J. Matrix Anal. Appl.},
+  title   = {Model reduction of {MIMO} systems via tangential interpolation},
+  year    = {2004},
+  number  = {2},
+  pages   = {328--349},
+  volume  = {26},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
