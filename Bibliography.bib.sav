@@ -601,7 +601,7 @@
 
 @Article{Agudelo2021,
   author  = {Agudelo, O.M. and Vermeersch, C. and {De Moor}, B.},
-  journal = {IFAC PapersOnLine (Special issue: )},
+  journal = {IFAC PapersOnLine (Special Issue: Proc. of MTNS 2020)},
   title   = {Globally optimal {H2}-Norm Model Reduction: A Numerical Linear Algebra Approach},
   year    = {2021},
   number  = {9},
@@ -764,11 +764,15 @@
   groups  = {Paper Complex Variables},
 }
 
-@Conference{Ahmad2011,
+@InProceedings{Ahmad2011,
   author    = {Ahmad, M.I. and Frangos, M. and Jaimoukha, I.M.},
-  booktitle = {Proceedings of the 18th World Congress},
+  booktitle = {IFAC Proceedings Volumes},
   title     = {Second order $\mathcal{H}_2$ optimal approximation of linear dynamical systems},
   year      = {2011},
+  address   = {Milano (Italy)},
+  number    = {1},
+  pages     = {12767--12771},
+  volume    = {44},
 }
 
 @TechReport{Vermeersch2022,
@@ -1322,6 +1326,25 @@
   number  = {4},
   pages   = {1083--1099},
   volume  = {26},
+}
+
+@Article{Liu1986,
+  author  = {Liu, Y. and Anderson, B.~D.~O.},
+  journal = {International Journal of Control},
+  title   = {Controller Reduction via Stable Factorization and Balancing},
+  year    = {1986},
+  number  = {2},
+  pages   = {507--531},
+  volume  = {44},
+}
+
+@Article{VanDooren2008,
+  author  = {Van Dooren, P. and Gallivan, K.A. and Absil, P.-A.},
+  journal = {Applied Mathematics Letters},
+  title   = {$H_2$=optimal model reduction of {MIMO} systems},
+  year    = {2008},
+  pages   = {1267--1273},
+  volume  = {21},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
