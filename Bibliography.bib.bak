@@ -775,13 +775,16 @@
   volume    = {44},
 }
 
-@TechReport{Vermeersch2022,
+@Article{Vermeersch2022,
   author      = {Vermeersch, C. and {De Moor}, B.},
-  institution = {KU Leuven, ESAT (STADIUS)},
-  title       = {Two Complementary Block Macaulay Algorithms to Solve Multiparameter Eigenvalue Problems},
+  journal     = {Linear Algebra and its Applications},
+  title       = {Two complementary block {M}acaulay matrix algorithms to solve multiparameter eigenvalue problems},
   year        = {2022},
+  pages       = {177--209},
+  volume      = {654},
   address     = {Leuven, Belgium},
   groups      = {STADIUS publications},
+  institution = {KU Leuven, ESAT (STADIUS)},
 }
 
 @InProceedings{Batselier2012,
