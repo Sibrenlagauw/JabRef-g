@@ -602,7 +602,7 @@
 @Article{Agudelo2021,
   author  = {Agudelo, O.M. and Vermeersch, C. and {De Moor}, B.},
   journal = {IFAC PapersOnLine (Special Issue: Proc. of MTNS 2020)},
-  title   = {Globally Optimal {H_2}-Norm Model Reduction: A Numerical Linear Algebra Approach},
+  title   = {Globally Optimal {$H_2$}-Norm Model Reduction: A Numerical Linear Algebra Approach},
   year    = {2021},
   number  = {9},
   pages   = {564--571},
