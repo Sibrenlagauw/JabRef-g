@@ -1341,7 +1341,7 @@
 @Article{VanDooren2008,
   author  = {Van Dooren, P. and Gallivan, K.A. and Absil, P.-A.},
   journal = {Applied Mathematics Letters},
-  title   = {$H_2$=optimal model reduction of {MIMO} systems},
+  title   = {$H_2$-optimal model reduction of {MIMO} systems},
   year    = {2008},
   pages   = {1267--1273},
   volume  = {21},

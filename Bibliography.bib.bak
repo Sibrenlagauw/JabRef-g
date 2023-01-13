@@ -1387,6 +1387,25 @@
   volume  = {26},
 }
 
+@Article{Yan1999,
+  author  = {Yan, W.Y. and Lam, J.},
+  journal = {{IEEE} Transactions on Automatic Control},
+  title   = {An approximate approach to $h_2$ optimal model reduction},
+  year    = {1999},
+  number  = {7},
+  pages   = {1341--1358},
+  volume  = {44},
+}
+
+@Article{Zigic1993,
+  author  = {\v{Z}igi{\'c}, D. and Watson, L.T. and Beattie, C.},
+  journal = {Linear Algebra and its Applications},
+  title   = {Contragredient transformations applied to the optimal projection equations},
+  year    = {1993},
+  pages   = {665--676},
+  volume  = {188-189},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
