@@ -1459,6 +1459,28 @@
   pages     = {2321--2323},
 }
 
+@Article{Krajewski1993,
+  author  = {Krajewski, W.},
+  journal = {Journal of the Franklin Institute},
+  title   = {Optimality Conditions in Multivariable $L_2$ Model Reduction},
+  year    = {1993},
+  number  = {3},
+  pages   = {431--439},
+  volume  = {330},
+}
+
+@InProceedings{Lepschy1992,
+  author    = {Lepschy, A. et al.},
+  booktitle = {Recent advances in Mathematical Theory of Systems, Control, Networks and Signal Processing ({MTNS} 91)},
+  title     = {A numerical procedure for rational $L_2$ approximation},
+  year      = {1992},
+  address   = {Tokyo},
+  editor    = {Kimura, H. and Kodama, S.},
+  pages     = {431--436},
+  publisher = {Mita Press},
+  volume    = {1},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
