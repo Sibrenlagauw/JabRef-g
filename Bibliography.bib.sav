@@ -1517,6 +1517,14 @@
   address   = {Boston, USA},
 }
 
+@Book{Hoffman1962,
+  author    = {Hoffman, K.},
+  publisher = {Prentice-Hall},
+  title     = {Banach Spaces of Analytic Functions},
+  year      = {1962},
+  address   = {Englewood Cliffs, NJ},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

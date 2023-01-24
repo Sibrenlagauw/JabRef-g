@@ -1509,6 +1509,14 @@
   volume  = {121},
 }
 
+@Book{Gaier1987,
+  author    = {Gaier, D.},
+  publisher = {Birkh\"{a}user Boston, Inc.},
+  title     = {Lectures on Complex Approximation},
+  year      = {1987},
+  address   = {Boston, USA},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
