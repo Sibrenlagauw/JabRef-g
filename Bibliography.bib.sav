@@ -1525,6 +1525,24 @@
   address   = {Englewood Cliffs, NJ},
 }
 
+@Article{Hyland1985,
+  author  = {Hyland, D. and Bernstein, D.},
+  journal = {{IEEE} Transactions on Automatic Control},
+  title   = {The optimal projection equations for model reduction and the relationschips among the methods of {W}ilson, {S}kelton, and {M}oore},
+  year    = {1985},
+  number  = {12},
+  pages   = {1201--1211},
+  volume  = {30},
+}
+
+@PhdThesis{Alsubaie2019,
+  author  = {Alsubaie, F.~F.},
+  school  = {Imperial College London},
+  title   = {{$\mathcal{H}_2$} Optimal Model Reduction for Linear Dynamical Systems and the Solution of Multiparameter Matrix Pencil Problems},
+  year    = {2019},
+  address = {London, UK},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
