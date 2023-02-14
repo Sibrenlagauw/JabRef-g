@@ -1543,6 +1543,16 @@
   address = {London, UK},
 }
 
+@Article{Dreesen2018,
+  author  = {Dreesen, P. and Batselier, K. and De Moor, Bart},
+  journal = {International Journal of Control},
+  title   = {Multidimensional realisation theory and polynomial system solving},
+  year    = {2018},
+  number  = {12},
+  pages   = {2692--2704},
+  volume  = {91},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

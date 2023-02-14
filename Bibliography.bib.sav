@@ -1543,13 +1543,24 @@
   address = {London, UK},
 }
 
-@Article{Dreesen2017,
+@Article{Dreesen2018,
   author  = {Dreesen, P. and Batselier, K. and De Moor, Bart},
   journal = {International Journal of Control},
   title   = {Multidimensional realisation theory and polynomial system solving},
-  year    = {2017},
+  year    = {2018},
   number  = {12},
+  pages   = {2692--2704},
   volume  = {91},
+}
+
+@Article{Z̆igic1992,
+  author  = {\u{Z}igi\'c, D. et al.},
+  journal = {International Journal of Control},
+  title   = {Homotopy methods for solving the optimal projection equations for the {$H_2$} reduced order model problem},
+  year    = {1992},
+  number  = {1},
+  pages   = {173--191},
+  volume  = {56},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
