@@ -1563,6 +1563,16 @@
   volume  = {56},
 }
 
+@Article{Collins1991,
+  author  = {Collins, E.G. and Phillips, D.J. and Hyland, D.C.},
+  journal = {{IEEE} Control Systems Magazine},
+  title   = {Robust decentralized control laws for the {ACES} structure},
+  year    = {1991},
+  number  = {3},
+  pages   = {62--70},
+  volume  = {11},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
