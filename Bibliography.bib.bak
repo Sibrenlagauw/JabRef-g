@@ -358,7 +358,7 @@
 
 @Book{Regalia1995,
   author    = {Regalia, Phillip A.},
-  publisher = {Marcel Dekker Inc., NY, USA},
+  publisher = {Marcel Dekker Inc., New York, NY, USA},
   title     = {Adaptive IIR Filtering in Signal Processing and Control},
   year      = {1995},
   groups    = {Links with operator theory},
