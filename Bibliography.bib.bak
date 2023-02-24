@@ -1548,7 +1548,7 @@
 }
 
 @Article{Z̆igic1992,
-  author  = {\u{Z}igi\'c, D. et al.},
+  author  = {\u{Z}igi{\'c}, D. and Watson, L.~T. and Collins, E.~G. and Bernstein, D.~S.},
   journal = {International Journal of Control},
   title   = {Homotopy methods for solving the optimal projection equations for the {$H_2$} reduced order model problem},
   year    = {1992},
