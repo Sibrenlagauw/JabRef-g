@@ -561,7 +561,6 @@
   title     = {Interpolation and Approximation by Rational Functions in the Complex Domain},
   year      = {1960},
   edition   = {3th},
-  volume    = {XX},
   groups    = {H2-Model order reduction},
 }
 
@@ -588,7 +587,7 @@
 
 @Article{Fan1993,
   author  = {Fan, H. and Doroslova{\v c}ki},
-  journal = {{IEEE} Transactions on Circuits and Systems},
+  journal = {{IEEE} Transactions on Circuits and Systems--{II}: Analog and Digital Signal Processing},
   title   = {On ``global convergence" of {S}teiglitz--{McBride adaptive algorithm}},
   year    = {1993},
   number  = {2},
@@ -816,10 +815,9 @@
 
 @Article{DeCock2021,
   author  = {De Cock, K. and De Moor, B.},
-  journal = {IFAC-PapersOnLine},
+  journal = {IFAC-PapersOnLine (Special Issue: Proceedings of MTNS 2020)},
   title   = {Multiparameter Eigenvalue Problems and Shift-Invariance},
   year    = {2021},
-  note    = {Special Issue: 24th International Symposium on Mathematical Theory of Networks and Systems MTNS 2020: Cambridge, United Kingdom},
   number  = {9},
   pages   = {159--165},
   volume  = {54},
@@ -1272,7 +1270,7 @@
 @InProceedings{Breiding2018,
   author    = {Breiding, P. and Timme, S.},
   booktitle = {International Congress on Mathematical Software},
-  title     = {{HomotopyContinuation.jl}: A Package for Homotopy Continuation in Julia},
+  title     = {{HomotopyContinuation.jl}: A Package for Homotopy Continuation in {J}ulia},
   year      = {2018},
   pages     = {458--465},
 }
