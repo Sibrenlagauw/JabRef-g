@@ -358,7 +358,7 @@
 
 @Book{Regalia1995,
   author    = {Regalia, Phillip A.},
-  publisher = {Marcel Dekker Inc., New York, NY, USA},
+  publisher = {Marcel Dekker Inc., New York, NY},
   title     = {Adaptive IIR Filtering in Signal Processing and Control},
   year      = {1995},
   groups    = {Links with operator theory},
@@ -442,7 +442,7 @@
   year    = {1967},
   month   = oct,
   number  = {5},
-  pages   = {585 -- 588},
+  pages   = {585--588},
   volume  = {12},
   groups  = {H2-Model order reduction},
 }
@@ -561,7 +561,6 @@
   title     = {Interpolation and Approximation by Rational Functions in the Complex Domain},
   year      = {1960},
   edition   = {3th},
-  series    = {American Mathematical Society Colloquium Publications},
   volume    = {XX},
   groups    = {H2-Model order reduction},
 }
@@ -644,7 +643,7 @@
 }
 
 @Article{Baratchart1988,
-  author  = {Baratchart, L. and Oltivi, M.},
+  author  = {Baratchart, L. and Olivi, M.},
   journal = {System \& Control Letters},
   title   = {Index of critical points in rational {$l^2$}-approximation},
   year    = {1988},
@@ -657,7 +656,7 @@
 @Article{Spanos1992,
   author  = {Spanos, J.T. and Milman, M.H. and Mingori, D.L.},
   journal = {Automatica},
-  title   = {A New Algorithm for $L_2$ Optimal Model Reduction},
+  title   = {A New Algorithm for {$L_2$} Optimal Model Reduction},
   year    = {1992},
   number  = {5},
   pages   = {897--909},
@@ -710,7 +709,7 @@
 }
 
 @Article{VanDoren2010,
-  author  = {Van Doren, P. and Gallivan, K.A. and Absil, P.-A.},
+  author  = {Van Dooren, P. and Gallivan, K.A. and Absil, P.-A.},
   journal = {SIAM Journal on Matrix Analysis and Applications},
   title   = {$\mathcal{H}_2$-Optimal Model Reduction With Higher-Order Poles},
   year    = {2010},
@@ -732,7 +731,7 @@
 
 @Misc{KreutzDelgado2009,
   author    = {Kreutz-Delgado, K.},
-  title     = {The Complex Gradient Operator and the CR-Calculus},
+  title     = {The Complex Gradient Operator and the \mathbb{CR}-Calculus},
   year      = {2009},
   copyright = {arXiv.org perpetual, non-exclusive license},
   doi       = {10.48550/ARXIV.0906.4835},
@@ -877,11 +876,9 @@
 
 @Book{Antoulas2005,
   author    = {Antoulas, A. C.},
-  editor    = {Smith, R. C.},
-  publisher = {SIAM, Philadelphia, PA, USA},
+  publisher = {SIAM, Philadelphia, PA},
   title     = {Approximation of Large-Scale Dynamical Systems},
   year      = {2005},
-  series    = {Advances in Design and Control},
 }
 
 @Article{Neyman1948,
@@ -1447,7 +1444,7 @@
 @InProceedings{Lepschy1991,
   author    = {Lepschy, A. and Mian, G.~A. and Pinato, G. and Viaro, U.},
   booktitle = {Proceedings of the 30th {IEEE} Conference on Decision and Control},
-  title     = {Rational $L_2$ Approximation: A Non-Gradient Algorithm},
+  title     = {Rational {$L_2$} Approximation: A Non-Gradient Algorithm},
   year      = {1991},
   month     = dec,
   pages     = {2321--2323},
@@ -1456,7 +1453,7 @@
 @Article{Krajewski1993,
   author  = {Krajewski, W.},
   journal = {Journal of the Franklin Institute},
-  title   = {Optimality Conditions in Multivariable $L_2$ Model Reduction},
+  title   = {Optimality Conditions in Multivariable {$L_2$} Model Reduction},
   year    = {1993},
   number  = {3},
   pages   = {431--439},
