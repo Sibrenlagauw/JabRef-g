@@ -730,7 +730,7 @@
 
 @Misc{KreutzDelgado2009,
   author    = {Kreutz-Delgado, K.},
-  title     = {The Complex Gradient Operator and the \mathbb{CR}-Calculus},
+  title     = {The Complex Gradient Operator and the {$\mathbb{CR}$}-Calculus},
   year      = {2009},
   copyright = {arXiv.org perpetual, non-exclusive license},
   doi       = {10.48550/ARXIV.0906.4835},
@@ -1570,6 +1570,14 @@
   number  = {216},
   pages   = {1477--1484},
   volume  = {65},
+}
+
+@Misc{Plestenjak2023,
+  author       = {Plestenjak, B.},
+  howpublished = {{MATLAB} Central File Exchange},
+  note         = {Retrieved March 2, 2023},
+  title        = {MultiParEig (\url{https://www.mathworks.com/matlabcentral/fileexchange/47844-multipareig})},
+  year         = {2023},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
