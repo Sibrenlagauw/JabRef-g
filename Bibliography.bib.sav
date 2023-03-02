@@ -1574,9 +1574,9 @@
 
 @Misc{Plestenjak2023,
   author       = {Plestenjak, B.},
-  howpublished = {{MATLAB} Central File Exchange},
+  howpublished = {(\url{https://www.mathworks.com/matlabcentral/fileexchange/47844-multipareig}), {MATLAB} Central File Exchange},
   note         = {Retrieved March 2, 2023},
-  title        = {MultiParEig (\url{https://www.mathworks.com/matlabcentral/fileexchange/47844-multipareig})},
+  title        = {{MultiParEig}},
   year         = {2023},
 }
 
