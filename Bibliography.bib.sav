@@ -597,7 +597,7 @@
 }
 
 @Article{Agudelo2021,
-  author  = {Agudelo, O.M. and Vermeersch, C. and {De Moor}, B.},
+  author  = {Agudelo, O.~M. and Vermeersch, C. and {De Moor}, B.},
   journal = {IFAC PapersOnLine (Special Issue: Proceedings of MTNS 2020)},
   title   = {Globally Optimal {$H_2$}-Norm Model Reduction: A Numerical Linear Algebra Approach},
   year    = {2021},
@@ -1578,6 +1578,13 @@
   note         = {Retrieved March 2, 2023},
   title        = {{MultiParEig}},
   year         = {2023},
+}
+
+@Misc{Hanzon,
+  author = {Hanzon, B. and Maciejowski, J.~M. and Chou, C.~T.},
+  title  = {Optimal {H2} order-one reduction by solving eigenproblems for polynomial equations},
+  year   = {2007},
+  url    = {https://arxiv.org/abs/0706.1862},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
