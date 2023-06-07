@@ -1636,6 +1636,13 @@
   volume  = {7},
 }
 
+@Book{Cox2013,
+  author    = {Cox, D.~A. and Little, J. and O'Shea, D.},
+  publisher = {Springer Science \& Business Media},
+  title     = {Ideal, varieties, and algorithms: an introduction to computational algebraic geometry and commutative algebra},
+  year      = {2013},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
