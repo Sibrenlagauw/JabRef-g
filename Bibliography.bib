@@ -17,6 +17,7 @@
   year   = {2019},
   file   = {:PDFs/InBib/nonlinear_system_identification_schoukens_Ljung.pdf:PDF},
 }
+
 ,
 
 @Article{SubspaceSysId,
@@ -44,7 +45,7 @@
 }
 
 @Article{Lemmerling2001,
-  author  = {Lemmerling, P. and De Moor, B.},
+  author  = {Lemmerling, P. and {De Moor}, B.},
   journal = {Automatica},
   title   = {Misfit versus latency},
   year    = {2001},
@@ -73,6 +74,9 @@
   journal = {Automatica},
   title   = {From Time Series to Linear System - Part I. Finite Dimensional Linear Time Invariant Systems},
   year    = {1986},
+  number  = {5},
+  pages   = {561--580},
+  volume  = {22},
   file    = {:PDFs/InBib/Willems1986.pdf:PDF},
   groups  = {Start PhD},
   printed = {Yes},
@@ -83,6 +87,9 @@
   journal = {Automatica},
   title   = {From Time Series to Linear System - Part II. Exact modelling},
   year    = {1986},
+  number  = {6},
+  pages   = {675--694},
+  volume  = {22},
   file    = {:PDFs/InBib/Willems1986II.pdf:PDF},
   groups  = {Start PhD},
   printed = {Yes},
@@ -93,6 +100,9 @@
   journal = {Automatica},
   title   = {From Time Series to Linear System - Part III. Approximate Modelling},
   year    = {1987},
+  number  = {1},
+  pages   = {87--115},
+  volume  = {23},
   file    = {:PDFs/InBib/Willems1987III.pdf:PDF},
   groups  = {Start PhD},
   printed = {Yes},
@@ -138,13 +148,15 @@
   groups  = {Start PhD, STADIUS publications},
 }
 
-@Conference{Markovsky2004,
-  author    = {Markovsky, Ivan and Willems, Jan C. and Van Hufffel, Sabine and De Moor, Bart and Pintelon, Rik},
-  booktitle = {{IEEE} Conference on Decision and Control},
-  title     = {Application of Structured Total Least Squares for System Identification},
-  year      = {2004},
-  file      = {:PDFs/InBib/2004-Application_of_structured_total_least_squares_for_system_identification.pdf:PDF},
-  groups    = {Start PhD},
+@Article{Markovsky2005a,
+  author  = {Markovsky, I. and Willems, J.~C. and {Van Hufffel}, S. and {De Moor}, B. and Pintelon, R.},
+  journal = {{IEEE} Transactions on Automatic Control},
+  title   = {Application of Structured Total Least Squares for System Identification},
+  year    = {2005},
+  number  = {10},
+  pages   = {1490--1500},
+  volume  = {50},
+  file    = {:PDFs/InBib/2004-Application_of_structured_total_least_squares_for_system_identification.pdf:PDF},
 }
 
 @Article{PeterVanOverschee1993,
@@ -1213,16 +1225,6 @@
   volume  = {57},
 }
 
-@Book{Heij1989,
-  author    = {Heij, C.},
-  editor    = {Thoma, M. and Wyner, A.},
-  publisher = {Springer-Verlag Berlin Heidelberg GmbH},
-  title     = {Deterministic Identification of Dynamical Systems},
-  year      = {1989},
-  series    = {Lecture Notes in Control and Information Sciences},
-  volume    = {127},
-}
-
 @Article{Xu1995,
   author  = {Xu, G. and LIU, H. and Tong, L. and Kailath, T.},
   journal = {IEEE Transactions on Signal Processing},
@@ -1636,11 +1638,12 @@
   volume  = {7},
 }
 
-@Book{Cox2013,
-  author    = {Cox, D.~A. and Little, J. and O'Shea, D.},
-  publisher = {Springer Science \& Business Media},
-  title     = {Ideal, varieties, and algorithms: an introduction to computational algebraic geometry and commutative algebra},
-  year      = {2013},
+@Book{Cox2015,
+  author    = {Cox, D. and Little, J. and O'Shea, D.},
+  publisher = {Springer Cham},
+  title     = {Ideals, Varieties, and Algorithms},
+  year      = {2015},
+  series    = {Undergraduate Texts in Mathematics},
 }
 
 @InProceedings{Baratchart1990,
@@ -1655,6 +1658,236 @@
   publisher = {Birkh\"{a}user},
   series    = {Progress in Systems and Control Theory},
   volume    = {8},
+}
+
+@Article{Roorda2001a,
+  author  = {Roorda, B. and Weiland, S.},
+  journal = {Linear Algebra and Its Applications},
+  title   = {Optimal angle reduction -- a behavioral approach to linear system approximation},
+  year    = {2001},
+  number  = {1--3},
+  pages   = {189--235},
+  volume  = {337},
+  groups  = {H2-Model order reduction},
+}
+
+@Book{Heij1989,
+  author    = {Heij, C.},
+  publisher = {Springer},
+  title     = {Deterministic Identification of Dynamical Systems},
+  year      = {1989},
+  address   = {Berlin},
+  series    = {Lecture Notes in Control and Information Sciences},
+  volume    = {127},
+}
+
+@Article{Hanzon2006,
+  author  = {Hanzon, B. and Olivi, M. and Peeters, R.~L.M.},
+  journal = {Linear Algebra and its Applications},
+  title   = {Balanced realizations of discrete-time stable all-pass systems and the tangential Schur algorithm},
+  year    = {2006},
+  number  = {2--3},
+  pages   = {793--82},
+  volume  = {418},
+  groups  = {STADIUS publications},
+}
+
+@Article{Genin1983,
+  author  = {Genin, Y. and Van Dooren, P. and Kailath, T. and Delsome, J.-M. and Morf, M.},
+  journal = {Linear Algebra and its Applications},
+  title   = {On $\Sigma$-Lossless Transfer Functions and Related Questions},
+  year    = {1983},
+  pages   = {251--275},
+  volume  = {50},
+}
+
+@InProceedings{DeMoor2019,
+  author    = {De Moor, B.},
+  booktitle = {Proceedings of the 18th European Control Conference (ECC)},
+  title     = {Least squares realization of {LTI} models is an eigenvalue problem},
+  year      = {2019},
+  address   = {Napoli, Italy},
+  month     = jun,
+  pages     = {2270--2275},
+}
+
+@Book{Verhaegen2007,
+  author    = {Verhaegen, M. and Verdult, V.},
+  publisher = {Cambridge University Press},
+  title     = {Filtering and System Identification. A Least Squares Approach.},
+  year      = {2007},
+}
+
+@Book{Katayama2005,
+  author    = {Katayama, T.},
+  publisher = {Springer},
+  title     = {Subspace Methods for System Identification},
+  year      = {2005},
+}
+
+@Book{Pintelon2012,
+  author    = {Pintelon, R. and Schoukens, J.},
+  publisher = {Wiley-{IEEE} Press},
+  title     = {System Identification: A Frequency Domain Approach.},
+  year      = {2012},
+  edition   = {2nd},
+}
+
+@Article{Cadzow1988,
+  author  = {Cadzow, J.},
+  journal = {{IEEE} Transactions on Acoustics, Speech, and Signal Processing},
+  title   = {Singal enhancement: a composite property mapping algorithm},
+  year    = {1988},
+  number  = {2},
+  pages   = {49--62},
+  volume  = {36},
+}
+
+@Article{Golub2003,
+  author  = {Golub, G.~H. and Pereyra, V.},
+  journal = {Inverse Problems},
+  title   = {Separable nonlinear least squares: the variable projection method and its applications},
+  year    = {2003},
+  number  = {2},
+  pages   = {R1--R26},
+  volume  = {19},
+}
+
+@Article{Hochstenbach2023,
+  author  = {Hochstenbach, M.~E. and Ko\u{s}ir, T. and Plestenjak, B.},
+  journal = {Submitted on 4 Dec 2022, available online: \url{arxiv.org/abs/2212.01867}},
+  title   = {Numerical methods for rectangular multiparameter eigenvalue problems, with applications to finding optimal {ARMA} and {LTI} models},
+  year    = {2023},
+}
+
+@Article{Kronecker1881,
+  author  = {Kronecker, L.},
+  journal = {Monatsberichte der Königlich Preussischen Akademie der Wissenschaften (Berlin)},
+  title   = {Zur Theorie der Elimination einer Variablen aus zwei algebraischen Gleichungen},
+  year    = {1881},
+  note    = {Reprinted as pp. 113--192 in Mathematische Werke, vol. 2, B.G. Teubner, Leipzig, 1897.},
+  pages   = {535--600},
+}
+
+@Article{Aoki1970,
+  author  = {Aoki, M. and Yue, P.~C>},
+  journal = {{IEEE} Transactions on Automatic Control},
+  title   = {On A Priori Error Estimates of Some Identification Methods},
+  year    = {1970},
+  number  = {5},
+  pages   = {541--548},
+  volume  = {15},
+}
+
+@Book{Markovsky2006,
+  author    = {Markovsky, I. and Willems, J.~C. and {Van Huffel}, S. and {De Moor}, B.},
+  publisher = {SIAM},
+  title     = {Exact and Approximate Modeling of Linear Systems: A Behavioral Approach},
+  year      = {2006},
+  series    = {Monographs on Mathematical Modeling and Computation},
+}
+
+@TechReport{Lagauw2023a,
+  author      = {Lagauw, S. and Vanpoucke, L. and {De Moor}, B.},
+  institution = {STADIUS, Department of Electrical Engineering (ESAT), KU Leuven},
+  title       = {Exact Characterization of the Global Optima of Least Squares Realization of Autonomous {LTI} Models as a Multiparameter Eigenvalue Problem},
+  year        = {2023},
+  address     = {Leuven, Belgium},
+  note        = {Accessible at: \url{https://ftp.esat.kuleuven.be/pub/stadius/slagauw/23-140.pdf}},
+}
+
+@Article{Legat2023,
+  author  = {Legat, B. and Yuan, C. and Parrilo, P.},
+  journal = {{SIAM} Journal on Optimization},
+  title   = {Low-Rank Univariate Sum of Squares Has No Spurious Local Minima},
+  year    = {2023},
+  number  = {3},
+  pages   = {2041--2061},
+  volume  = {33},
+}
+
+@Article{Markovsky2014,
+  author  = {Markovsky, I.},
+  journal = {Singal Processing},
+  title   = {Recent progress on variable projection methods for structured low-rank approximation},
+  year    = {2014},
+  pages   = {406--419},
+  volume  = {96},
+}
+
+@Article{Scarciotti2017,
+  author  = {Scarciotti, G. and Astolfi, A.},
+  journal = {Automatica},
+  title   = {Data-driven model reduction by moment matching for linear and nonlinear systems},
+  year    = {2017},
+  pages   = {340--351},
+  volume  = {79},
+}
+
+@InProceedings{Mao2020,
+  author    = {Mao, J. and Scarciotti, G.},
+  booktitle = {Proc. of the 20th European Control Conference (ECC)},
+  title     = {Data-Driven Model Reduction by Moment Matching for Linear Systems through a Swapped Interconnection},
+  year      = {2020},
+  address   = {London, United Kingdom},
+}
+
+@TechReport{Lagauw2023b,
+  author      = {Lagauw, S. and {De Moor}, B.},
+  institution = {STADIUS, Department of Electrical Engineering (ESAT), KU Leuven},
+  title       = {Least Squares Projection Onto the Behavior for {SISO} {LTI} Models},
+  year        = {2023},
+  address     = {Leuven, Belgium},
+  note        = {Accessible at: \url{https://ftp.esat.kuleuven.be/pub/stadius/slagauw/23-162.pdf}},
+}
+
+@InProceedings{Vermeersch2023a,
+  author    = {Vermeersch, C. and Lagauw, S. and {De Moor}, B.},
+  booktitle = {Proc.~of the 62nd Conference on Decision and Control (CDC)},
+  title     = {Multivariate Polynomial Optimization in Complex Decision Variables Is a (Rectangular) Multiparameter Eigenvalue Problem},
+  year      = {2023},
+  address   = {Marina Bay Sands, Singapore},
+  month     = dec,
+  pages     = {7299--7305},
+}
+
+@Article{Golub1973,
+  author  = {Golub, G.~H. and Pereyra, V.},
+  journal = {{SIAM} Journal on Numerical Analysis},
+  title   = {The differentiation of pseudo-inverses and nonlinear least squares problemswhose variables separate},
+  year    = {1973},
+  number  = {2},
+  pages   = {413--432},
+  volume  = {10},
+}
+
+@Article{Baratchart1986,
+  author  = {Baratchart, L.},
+  journal = {IMA Journal of Mathematical Control \& Information},
+  title   = {Existence and Generic Properties of $L_2$ Approximants for Linear Systems},
+  year    = {1986},
+  number  = {2-3},
+  pages   = {89--101},
+  volume  = {3},
+}
+
+@Book{Holland1995,
+  author    = {Holland, J.~H.},
+  publisher = {Addison Wesley Publishing Company},
+  title     = {Hidden Order: How Adaptation Builds Complexity},
+  year      = {1995},
+  address   = {USA},
+  note      = {[Citation only]},
+}
+
+@Article{Elad2004,
+  author  = {Elad, M. and Milanfar, P. and Golub, G.~H.},
+  journal = {IEEE Transactions on Signal Processing},
+  title   = {Shape from Moments---An Estimation Theory Perspective},
+  year    = {2004},
+  number  = {7},
+  pages   = {1814--1829},
+  volume  = {52},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

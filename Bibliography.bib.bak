@@ -1643,6 +1643,113 @@
   year      = {2013},
 }
 
+@InProceedings{Baratchart1990,
+  author    = {Baratchart, L.},
+  booktitle = {Proceedings of the conference "Analysis of Controlled Dynamical Systems"},
+  title     = {On the topological structure of inner functions and its use in identification},
+  year      = {1990},
+  address   = {Lyon, France},
+  editor    = {Bonnard, B and Bride, B. and Gauthier, J.~P. and Kupka, I.},
+  month     = jul,
+  pages     = {51--59},
+  publisher = {Birkh\"{a}user},
+  series    = {Progress in Systems and Control Theory},
+  volume    = {8},
+}
+
+@Article{Roorda2001a,
+  author  = {Roorda, B. and Weiland, S.},
+  journal = {Linear Algebra and Its Applications},
+  title   = {Optimal angle reduction -- a behavioral approach to linear system approximation},
+  year    = {2001},
+  number  = {1--3},
+  pages   = {189--235},
+  volume  = {337},
+  groups  = {H2-Model order reduction},
+}
+
+@Book{Heij1989a,
+  author    = {Heij, C.},
+  publisher = {Springer},
+  title     = {Deterministic Identification of Dynamical Systems},
+  year      = {1989},
+  address   = {Berlin},
+  series    = {Lecture Notes in Control and Information Sciences},
+  volume    = {127},
+}
+
+@Article{Hanzon2006,
+  author  = {Hanzon, B. and Olivi, M. and Peeters, R.~L.M.},
+  journal = {Linear Algebra and its Applications},
+  title   = {Balanced realizations of discrete-time stable all-pass systems and the tangential Schur algorithm},
+  year    = {2006},
+  number  = {2--3},
+  pages   = {793--82},
+  volume  = {418},
+  groups  = {STADIUS publications},
+}
+
+@Article{Genin1983,
+  author  = {Genin, Y. and Van Dooren, P. and Kailath, T. and Delsome, J.-M. and Morf, M.},
+  journal = {Linear Algebra and its Applications},
+  title   = {On $\Sigma$-Lossless Transfer Functions and Related Questions},
+  year    = {1983},
+  pages   = {251--275},
+  volume  = {50},
+}
+
+@InProceedings{DeMoor2019,
+  author    = {De Moor, B.},
+  booktitle = {Proceedings of the 18th European Control Conference (ECC)},
+  title     = {Least squares realization of {LTI} models is an eigenvalue problem},
+  year      = {2019},
+  address   = {Napoli, Italy},
+  month     = jun,
+  pages     = {2270--2275},
+}
+
+@Book{Verhaegen2007,
+  author    = {Verhaegen, M. and Verdult, V.},
+  publisher = {Cambridge University Press},
+  title     = {Filtering and System Identification. A Least Squares Approach.},
+  year      = {2007},
+}
+
+@Book{Katayama2005,
+  author    = {Katayama, T.},
+  publisher = {Springer},
+  title     = {Subspace Methods for System Identification},
+  year      = {2005},
+}
+
+@Book{Pintelon2012,
+  author    = {Pintelon, R. and Schoukens, J.},
+  publisher = {Wiley-{IEEE} Press},
+  title     = {System Identification: A Frequency Domain Approach.},
+  year      = {2012},
+  edition   = {2nd},
+}
+
+@Article{Cadzow1988,
+  author  = {Cadzow, J.},
+  journal = {{IEEE} Transactions on Acoustics, Speech, and Signal Processing},
+  title   = {Singal enhancement: a composite property mapping algorithm},
+  year    = {1988},
+  number  = {2},
+  pages   = {49--62},
+  volume  = {36},
+}
+
+@Article{Golub2003,
+  author  = {Golub, G.~H. and Pereyra, V.},
+  journal = {Inverse Problems},
+  title   = {Separable nonlinear least squares: the variable projection method and its applications},
+  year    = {2003},
+  number  = {2},
+  pages   = {R1--R26},
+  volume  = {19},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
